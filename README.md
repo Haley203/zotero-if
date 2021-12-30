@@ -60,4 +60,7 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 ## 致谢
 
 1. 感谢南京市第一医院@Hong Liang为此项目作出的贡献；
-1. 部分代码参考了以下开源项目[zotero-tag](https://github.com/windingwind/zotero-tag)，感谢。
+1. 部分代码参考了以下开源项目，感谢。
+   - [zotero-tag](https://github.com/windingwind/zotero-tag)
+   - [Jasminum](https://github.com/l0o0/jasminum)
+
