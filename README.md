@@ -26,7 +26,7 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 
 ![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20211230211442.png)
 
-## 更多新功能预告
+## 💡 更多新功能预告
 
 
 
@@ -53,7 +53,7 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 
 ## ❤️ 关注我
 
-全网同名：青柠学术   公众号 / 视频号 / [知乎](https://www.zhihu.com/people/qnscholar) / [B站](https://space.bilibili.com/524598505)
+全网同名：青柠学术。👉   公众号 / 视频号 / [知乎](https://www.zhihu.com/people/qnscholar) / [B站](https://space.bilibili.com/524598505)
 
 
 
