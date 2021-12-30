@@ -17,7 +17,7 @@
 
 1. 扫码关注【**青柠学术**】公众号，👇后台回复关键词`Zotero IF`获取插件 xpi 文件；
 
-![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20211230143526.png)
+![](https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20211230211706.png)
 
 2. 进入 Zotero 菜单`Tools-->Add-ons`，点击右上角小齿轮，并点击 **Install add-on from file...**，选择 Zotero-if.xpi 插件，完成安装；
 3. 在 Zotero 的首选项中，有 Zotero IF 插件的使用说明、以及一些相关资源。👇
